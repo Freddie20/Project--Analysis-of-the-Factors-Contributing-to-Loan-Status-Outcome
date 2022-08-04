@@ -9,6 +9,7 @@ For this analysis I worked on 14 variables from the data namely Term, LoanStatus
 I was most interested to answer 'what factors affect a loan’s outcome status in the dataset?'
 
 
+
 Conclusion
 
 Based on my analysis, the factors that affect a loan's outcome are BorrowerRate, EmploymentStatus, IsBorrowerHomeowner, and Investors.
